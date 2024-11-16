@@ -1,4 +1,4 @@
-package com.devsuperior.dslist;
+package devsuperior.dslist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

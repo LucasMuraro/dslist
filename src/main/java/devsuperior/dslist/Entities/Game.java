@@ -1,4 +1,4 @@
-package com.devsuperior.dslist.Entities;
+package devsuperior.dslist.Entities;
 import java.util.Objects;
 
 import jakarta.persistence.Column;

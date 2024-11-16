@@ -1,4 +1,4 @@
-package com.devsuperior.dslist.Entities;
+package devsuperior.dslist.Entities;
 
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
