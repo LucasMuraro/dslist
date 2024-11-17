@@ -1,9 +1,7 @@
-postgresql://postgres:MBHSdYleugoIQEvcwdugInyLBnUAKdBS@autorack.proxy.rlwy.net:36283/railway
+postgresql://postgres:lDNAxrylEVibPxszqKcFAygWfsoHZpDz@
+autorack.proxy.rlwy.net:10224/railway 
 
 
 
 
-
-
-
-jdbc:postgresql://autorack.proxy.rlwy.net:36283/railway
+jdbc:postgresql://autorack.proxy.rlwy.net:10224/railway
